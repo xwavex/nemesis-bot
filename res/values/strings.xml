@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">dlwNemesis</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string-array name="item_types">
+        <item>Resonator</item>
+        <item>Burster</item>
+        <item>Shield</item>
+        <item>Media</item>
+        <item>PowerCube</item>
+    </string-array>
+    
+    <string-array name="item_levels">
+        <item>L1</item>
+        <item>L2</item>
+        <item>L3</item>
+        <item>L4</item>
+        <item>L5</item>
+        <item>L6</item>
+        <item>L7</item>
+        <item>L8</item>
+    </string-array>
+
+</resources>
