@@ -13,3 +13,14 @@ Ingress Bot that is able to automatically roam around portals and hack them.
 ![Image the in-app log](screenshots/hackedLog.png "Image the in-app log")
 
 (Image the in-app log)
+
+Further Information
+-------------------
+
+* Author: Dennis Leroy Wigand
+* Version: 1.0.0
+
+Licenses
+--------
+
+Didn't give a thought about that yet. So feel free to use it as you like.
