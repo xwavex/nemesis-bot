@@ -2,11 +2,7 @@
 
 Ingress Bot that is able to automatically roam around portals and hack them.
 
----
-
-## (DEPRECATED PROTOCOL)
-
----
+### (DEPRECATED PROTOCOL)
 
 ## In-APP Screenshots
 
