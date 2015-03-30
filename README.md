@@ -18,7 +18,7 @@ Further Information
 -------------------
 
 * Author: Dennis Leroy Wigand
-* Version: 1.0.0
+* Version: 3.0.0
 
 Licenses
 --------
