@@ -10,7 +10,9 @@ Ingress Bot that is able to automatically roam around portals and hack them.
 
 (Image of a hacked portal)
 
-![Image the in-app log](screenshots/hackedLog.png "Image the in-app log" =250x)
+
+
+<img src="screenshots/hackedLog.png" alt="Drawing" style="width: 10px;"/>
 
 (Image the in-app log)
 
